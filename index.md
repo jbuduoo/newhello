@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 戴勝台好帥，戴勝台好帥，戴勝台好帥，戴勝台好帥
 
 You can use the [editor on GitHub](https://github.com/jbuduoo/newhello/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
